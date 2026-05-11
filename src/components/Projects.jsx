@@ -24,6 +24,9 @@ const projects = [
 
     github:
       "https://github.com/juneliasamaddar/FUTURE_FS_01",
+
+    live:
+      "https://future-fs-01-drab-tau.vercel.app/",
   },
 ];
 
@@ -99,6 +102,17 @@ const Projects = () => {
                   >
                     View Project
                   </a>
+                )}
+
+                {project.live && (
+                    <a
+                    href={project.live}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="bg-green-500 hover:bg-green-600 px-5 py-2 rounded-xl font-semibold transition"
+                    >
+                        Live Demo
+                    </a>
                 )}
 
               </div>
