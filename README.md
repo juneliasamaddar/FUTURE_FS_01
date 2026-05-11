@@ -1,16 +1,51 @@
-# React + Vite
+# FUTURE_FS_01 – Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
+https://future-fs-01-drab-tau.vercel.app/
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Project Overview
+A responsive and modern personal portfolio website built using React and Tailwind CSS to showcase my skills, projects, achievements, and professional profile.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
+- Responsive design
+- Smooth scrolling navigation
+- Animated UI using Framer Motion
+- Skills showcase section
+- Projects section with GitHub links
+- Resume integration
+- Contact section
+- Live deployment using Vercel
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+- React.js
+- Tailwind CSS
+- Framer Motion
+- Vite
+- Vercel
+
+---
+
+## Projects Included
+### Diet Balancer App
+- Frontend: React
+- Backend: Spring Boot
+- Database: MySQL
+
+### Portfolio Website
+- React + Tailwind CSS
+
+---
+
+## GitHub Repository
+https://github.com/juneliasamaddar/FUTURE_FS_01
+
+---
+
+## Author
+Junelia Samaddar
